@@ -1,6 +1,6 @@
 // 配置地址 --> https://LG544365.github.io/TVBox/0706.json
 {
-"spider":"https://LG544365.github.io/TVBox/0706.jar",
+"spider":"https://github.com/LG544365/TVBox/blob/7c646bd522b6461af6d8a8e3b3fb2be1c5cd4a93/0706.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saW53ZWkwNzE4LmdpdGh1Yi5pby9pcHR2dHcvbWFvdHYudHh0"]}]}],
 
 
